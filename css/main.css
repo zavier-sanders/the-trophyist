@@ -187,6 +187,14 @@ iframe {
 }
 
 
+.icon-container {
+  text-align: center;
+}
+
+.icon-container img {
+  width: 150px;
+  margin-bottom: 15px;
+}
 
 
 
