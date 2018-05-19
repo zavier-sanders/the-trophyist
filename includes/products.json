@@ -1,0 +1,146 @@
+{
+  "Engravings": [
+    {
+      "ID": 1,
+      "Engraving": "A for effort"
+    },
+    {
+      "ID": 2,
+      "Engraving": "Accident prone"
+    },
+    {
+      "ID": 3,
+      "Engraving": "Adulting"
+    },
+    {
+      "ID": 4,
+      "Engraving": "Amazing"
+    },
+    {
+      "ID": 5,
+      "Engraving": "Better luck next time"
+    },
+    {
+      "ID": 6,
+      "Engraving": "Court jester"
+    },
+    {
+      "ID": 7,
+      "Engraving": "Dickslinger"
+    },
+    {
+      "ID": 8,
+      "Engraving": "Drama Queen"
+    },
+    {
+      "ID": 9,
+      "Engraving": "Drank the Koolaid"
+    },
+    {
+      "ID": 10,
+      "Engraving": "Employed!"
+    },
+    {
+      "ID": 11,
+      "Engraving": "Finally made a good decision"
+    },
+    {
+      "ID": 12,
+      "Engraving": "Finally quit!"
+    },
+    {
+      "ID": 13,
+      "Engraving": "Finished the money pit"
+    },
+    {
+      "ID": 14,
+      "Engraving": "Human janitor"
+    },
+    {
+      "ID": 15,
+      "Engraving": "I told you so"
+    },
+    {
+      "ID": 16,
+      "Engraving": "Instigator"
+    },
+    {
+      "ID": 17,
+      "Engraving": "Living the dream"
+    },
+    {
+      "ID": 18,
+      "Engraving": "Most popular"
+    },
+    {
+      "ID": 19,
+      "Engraving": "Participated"
+    },
+    {
+      "ID": 20,
+      "Engraving": "Personal assistant to all"
+    },
+    {
+      "ID": 21,
+      "Engraving": "Runs with scissors"
+    },
+    {
+      "ID": 22,
+      "Engraving": "Shady AF"
+    },
+    {
+      "ID": 23,
+      "Engraving": "Sorry, not sorry"
+    },
+    {
+      "ID": 24,
+      "Engraving": "The struggle is real"
+    },
+    {
+      "ID": 25,
+      "Engraving": "Took one for the team"
+    },
+    {
+      "ID": 26,
+      "Engraving": "Tool"
+    },
+    {
+      "ID": 27,
+      "Engraving": "Truly poor performance"
+    },
+    {
+      "ID": 28,
+      "Engraving": "Warden"
+    },
+    {
+      "ID": 29,
+      "Engraving": "You're welcome"
+    },
+    {
+      "ID": 30,
+      "Engraving": "Your 15 minutes of fame are over"
+    }
+  ],
+  "Trophies": [
+    {
+      "ID": 1,
+      "Engraving": "The Man"
+    },
+    {
+      "ID": 2,
+      "Engraving": "Victory Girl"
+    },
+    {
+      "ID": 3,
+      "Engraving": "1st Place"
+    },
+    {
+      "ID": 4,
+      "Engraving": "Big Silver Star"
+    },
+    {
+      "ID": 5,
+      "Engraving": "Ascending Stars"
+    }
+  ]
+}
