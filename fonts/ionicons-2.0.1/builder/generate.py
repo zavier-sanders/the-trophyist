@@ -166,9 +166,9 @@ def generate_css_from_scss(data):
 def generate_cheatsheet(data):
   print "Generate Cheatsheet"
 
-  cheatsheet_file_path = os.path.join(ROOT_PATH, 'cheatsheet.html')
-  template_path = os.path.join(BUILDER_PATH, 'cheatsheet', 'template.html')
-  icon_row_path = os.path.join(BUILDER_PATH, 'cheatsheet', 'icon-row.html')
+  cheatsheet_file_path = os.path.join(ROOT_PATH, 'cheatsheet')
+  template_path = os.path.join(BUILDER_PATH, 'cheatsheet', 'template')
+  icon_row_path = os.path.join(BUILDER_PATH, 'cheatsheet', 'icon-row')
 
   f = open(template_path, 'r')
   template_html = f.read()

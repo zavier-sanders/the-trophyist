@@ -3232,7 +3232,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .m-text8 {
 	font-family: Montserrat-Regular;
 	font-size: 16px;
-	color: #ED8D3B;
+	color: #ffbc49;
 	text-transform: uppercase;
 }
 
@@ -3428,7 +3428,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 ///////////////////////////////////////////////////////////
 */
 .colorwhite {color: #fff;}
-.color0 {color: #ED8D3B;}
+.color0 {color: #ffbc49;}
 .color1 {color: #888888;}
 .color2 {color: #333333;}
 
@@ -3436,7 +3436,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 /*[  ]
 -----------------------------------------------------------
 */
-.color0-hov:hover {color: #ED8D3B;}
+.color0-hov:hover {color: #ffbc49;}
 
 
 
@@ -3693,6 +3693,9 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 	max-width: 570px;
 }
 
+.w-size29 {
+	width: 25%;
+}
 /*[ Height Size ]
 ///////////////////////////////////////////////////////////
 */
@@ -3704,11 +3707,15 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 	height: 22px;
 }
 
+.h-size3 {
+	height: 50px;
+}
+
 
 /*[ Background ]
 ///////////////////////////////////////////////////////////
 */
-.bg0 {background-color: #ED8D3B;}
+.bg0 {background-color: #ffbc49;}
 .bg1 {background-color: #222222;}
 .bg3 {background-color: rgba(255,255,255,0.95);}
 .bg4 {background-color: #111111;}
@@ -3727,7 +3734,7 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 /*[  ]
 -----------------------------------------------------------
 */
-.bg0-hov:hover {background-color: #ED8D3B;}
+.bg0-hov:hover {background-color: #ffbc49;}
 
 
 
@@ -3869,7 +3876,7 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
 	position: absolute;
 	width: 0;
 	height: 1px;
-	background-color: #ED8D3B;
+	background-color: #ffbc49;
 	left: 0;
 	bottom: -1px;
 	-webkit-transition: all 0.3s;
@@ -3886,7 +3893,7 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
 -----------------------------------------------------------
 */
 .eff2:active {
-	background-color: #ED8D3B;
+	background-color: #ffbc49;
 	color: white;
 }
 
@@ -3963,7 +3970,7 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
 ///////////////////////////////////////////////////////////
 */
 .hov1:hover {
-    background-color: #ED8D3B;
+    background-color: #ffbc49;
   	color: white;
 }
 

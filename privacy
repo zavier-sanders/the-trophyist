@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>The Trophyist | Privacy Policy</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="images/icons/favicon.png"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/themify/themify-icons.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/elegant-font/html-css/style.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/slick/slick.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+<!--===============================================================================================-->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55617115-15"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-55617115-15');
+	</script>
+
+</head>
+<body class="animsition">
+
+	<!-- Header -->
+	<header class="header1">
+		<!-- Header desktop -->
+		<div class="container-menu-header">
+			<!-- top noti -->
+			<!-- <div class="flex-c-m size22 bg0 s-text21 pos-relative">
+				100% ANONYMOUS
+				
+
+				<button class="flex-c-m pos2 size23 colorwhite eff3 trans-0-4 btn-romove-top-noti">
+					<i class="fa fa-remove fs-13" aria-hidden="true"></i>
+				</button>
+			</div> -->
+
+			<div class="wrap_header">
+				<!-- Logo -->
+				<a href="/" class="logo-v2">
+					<img src="images/logo-v2.png" alt="IMG-LOGO">
+				</a>
+
+				<!-- Menu -->
+				<div class="wrap_menu">
+					<nav class="menu">
+						<ul class="main_menu">
+							<li>
+								<a href="/">Home</a>
+								<!-- <ul class="sub_menu">
+									<li><a href="/">Homepage V1</a></li>
+									<li><a href="home-02">Homepage V2</a></li>
+									<li><a href="home-03">Homepage V3</a></li>
+								</ul> -->
+							</li>
+
+							<li>
+								<a href="products">Shop</a>
+							</li>
+
+							<!-- <li >
+								<a href="#">FAQ</a>
+							</li> -->
+
+							<!-- <li>
+								<a href="cart">Features</a>
+							</li>
+
+							<li>
+								<a href="blog">Blog</a>
+							</li> -->
+
+							<li>
+								<a href="about">About</a>
+							</li>
+
+							<li class="sale-noti">
+								<a href="contact">Contact</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+
+				<!-- Header Icon -->
+				<div class="header-icons">
+					<span class="topbar-email">
+						<a href="mailto:support@thetrophyist.com?Subject=Support">
+							support@thetrophyist.com
+						</a>
+					</span>
+					<!-- <a href="#" class="header-wrapicon1 dis-block">
+						<img src="images/icons/icon-header-01.png" class="header-icon1" alt="ICON">
+					</a>
+
+					<span class="linedivide1"></span>
+
+					<div class="header-wrapicon2">
+						<img src="images/icons/icon-header-02.png" class="header-icon1 js-show-header-dropdown" alt="ICON">
+						<span class="header-icons-noti">0</span>
+
+					</div> -->
+				</div>
+			</div>
+		</div>
+
+		<!-- Header Mobile -->
+		<div class="wrap_header_mobile">
+			<!-- Logo moblie -->
+			<a href="/" class="logo-mobile">
+				<img src="images/logo-v2.png" alt="IMG-LOGO" style="max-height: 65px;">
+			</a>
+
+			<!-- Button show menu -->
+			<div class="btn-show-menu">
+				<!-- Header Icon mobile -->
+
+				<div class="btn-show-menu-mobile hamburger hamburger--squeeze">
+					<span class="hamburger-box">
+						<span class="hamburger-inner"></span>
+					</span>
+				</div>
+			</div>
+		</div>
+
+		<!-- Menu Mobile -->
+		<div class="wrap-side-menu" >
+			<nav class="side-menu">
+				<ul class="main-menu">
+					<!-- <li class="item-topbar-mobile p-l-20 p-t-8 p-b-8">
+						<span class="topbar-child1">
+							Free shipping for standard order over $100
+						</span>
+					</li> -->
+
+					<li class="item-topbar-mobile p-l-20 p-t-8 p-b-8">
+						<div class="topbar-child2-mobile">
+							<span class="topbar-email">
+								<a href="mailto:support@thetrophyist.com?Subject=Support">
+									support@thetrophyist.com
+								</a>
+							</span>
+
+							<!-- <div class="topbar-language rs1-select2">
+								<select class="selection-1" name="time">
+									<option>USD</option>
+									<option>EUR</option>
+								</select>
+							</div> -->
+						</div>
+					</li>
+
+					<li class="item-topbar-mobile p-l-10">
+						<div class="topbar-social-mobile">
+							<a href="https://www.facebook.com/The-Trophyist-2107927126160981/" target="_blank" class="topbar-social-item fa fa-facebook"></a>
+							<a href="https://www.instagram.com/thetrophyist/" target="_blank" class="topbar-social-item fa fa-instagram"></a>
+							<!-- <a href="#" class="topbar-social-item fa fa-pinterest-p"></a>
+							<a href="#" class="topbar-social-item fa fa-snapchat-ghost"></a>
+							<a href="#" class="topbar-social-item fa fa-youtube-play"></a> -->
+						</div>
+					</li>
+
+					<li class="item-menu-mobile">
+						<a href="/">Home</a>
+					</li>
+
+					<li class="item-menu-mobile">
+						<a href="products">Shop</a>
+					</li>
+
+					<!-- <li class="item-menu-mobile">
+						<a href="#">FAQ</a>
+					</li> -->
+
+					<!-- <li class="item-menu-mobile">
+						<a href="blog">Blog</a>
+					</li> -->
+
+					<li class="item-menu-mobile">
+						<a href="about">About</a>
+					</li>
+
+					<li class="item-menu-mobile">
+						<a href="contact">Contact</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<!-- Title Page -->
+	<section class="bg-title-page p-t-40 p-b-50 flex-col-c-m" style="background: linear-gradient(rgba(20, 20, 20, 0.5), rgba(20, 20, 20, 0.5)), url(images/contact.png) no-repeat center;">
+		<h2 class="l-text2 t-center">
+			Privacy Policy
+		</h2>
+	</section>
+
+	<!-- content page -->
+	<section class="bgwhite p-t-66 p-b-60">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 p-b-30">
+					
+				</div>
+
+				<div class="col-md-6 p-b-30">
+						<p>Your name and personal information is protected by The Trophyist</p>
+						<br/>
+						<p>*Under no circumstances will the fortunate person who received a trophy from suppport@TheTrophyist.com know who sent it unless you give us permission or we are required by law—that means that a person may(slim chance)order a court to subpoena our company.  Yes-we do need to comply with the court system since they trump our confidentially assurance.</p>
+						<br/>
+						<p>*So that means:  Consider wisely who you send a trophy to as they have the right to take us to court to unearth your identity.</p>  
+						<br/>
+						<p>*We do not expect this to occur and we have not seen the inside of a courtroom
+							 about this.</p>
+						<hr/>
+						<h3>Credit Card Information</h3>
+						<br/>
+						<p>*Clearly you will have to purchase the Trophy through support@TheTrophyist.com.</p>
+						<br/>
+						<p>*So…..you will need to provide a credit card or paypal information with our super secure 3rd party company. </p>
+						<br/>
+						<p>*The payment processing business that we use is overly (and that’s good) secure.  Support@TheTrophyist.com is a very secure website built by a tremendously brilliant Web Developer.</p>
+						<br/>
+						<p>*Your personal information is securely protected and we will never sell that  private stuff to any other companies or strangers.  Our Pinky Swear Promise to You!</p>
+						<br/>
+						<p>*A 3rd party payment software system is used to finalize your unique order.  Please remember to to enable “no cookies” on your phone/computer.</p>
+						<br/>
+						<hr/>
+						<h3>Copyrights</h3>
+						<br/>
+						<p>The Trophyist is a registered LLC.  This concept has taken countless hours of brainstorming, spats, opinions, trust, love, peace and harmony, and 2 hours of sleep a night in order to bring your this amazing product.  I urge you not to steal the concept, change it up or straight up copy it.</p>
+						<br/>
+						<p>*The result would be an unpleasant lawsuit and don’t we all just to be 
+								honorable, upstanding citizens or tempt bad Karma, Mojo or JuJu?</p>
+								<br/>
+						<hr/>
+						<h3>The Trophyist Cans and Can’ts</h3>
+						<br/>
+						<p>*What you can do with the The Trophyist?</p>
+						<br/>
+								<p class="p-l-20">*buy, buy and purchase for friends, family, co-workers, neighbors,
+									businesses, bachelorette/bachelor parties, tournaments, games or 
+									yourself.</p>
+									<br/>
+								 
+								<p class="p-l-20">*Have a great idea that you would like to see our company offer?
+									Email us and we will consider it and award YOU a Trophy for a super            
+									dope idea.</p>
+									<br/>
+						<p>*What you cannot do:</p>
+						<br/>
+								<p class="p-l-20">*This is a big one so scan carefully(does anyone read word for word 
+									anymore?)</p>
+									<br/>
+								<p class="p-l-20">*Our idea is not original-its been done in some form or another for years.</p>
+								<br/>
+								<p>*The Trophyist is supposed to funny, sarcastic and a little snarky or
+								just plain nice.</p>
+								<br/>
+										 <p>*Sending it anonymously is part of the fun or sending with your name
+											 is just as amusing.</p>
+											 <br/>
+										 <p>*The Trophyist Teams policy is not intended to bully, stalk, or 
+											 threaten anyone.  That just wouldn’t be cricket.</p>
+											 <br/>
+										 <p>*Our Team will refund your money immediately and we will be 
+											 unable to send your gift if the intention is about the above 
+											 “Cannot.”</p>
+											 <br/>
+										 <p>*The Trophyist Team does possess a moral code of conduct and
+											 standards.  We retain the right to deny your purchase based
+								on certain words. Some words are just not necessary or remotely 
+											 acceptable.</p>
+											 <br/>
+										 <p>*Trust us-we are not prudes, judgmental or prissy but there is a
+												limit.  The “C” word will never be used on any trophy or 
+												personal note.</p>
+												<br/>
+			
+										 <p>*YOU CAN SEND ONE TO ANYONE ELSE AND MAKE 
+												THEIR DAY, MONTH, YEAR AND LIFE BETTER!</p>
+												<br/>
+												<p>*Here is who we cannot ever, ever send a Trophy to:</p>
+												<br/>
+												<p>*The President, Vice President or any bigwigs in Washington.</p>
+												<br/>
+												<p>*Any Government buildings.</p>
+												<br/>
+												<p>*Institutions with a young impressionable minds under the age of
+													18 years old.  Schools, Camps, or Juvenile Facilities.</p>
+													<br/>
+												<p>*Anyone under the age of 18 years old.  And we will know if they are
+													We promise you that.</p>
+													<br/>
+												<p>*People who have opted out</p>
+			 
+			
+				</div>
+
+				<div class="col-md-3 p-b-30">
+					
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<!-- Footer -->
+	<footer class="bg6 p-t-45 p-b-43 p-l-45 p-r-45">
+		<div class="flex-w p-b-90">
+			<div class="w-size6 p-t-30 p-l-15 p-r-15 respon3">
+				<h4 class="s-text12 p-b-30">
+					GET IN TOUCH
+				</h4>
+
+				<div>
+					<p class="s-text7 w-size27">
+						Any questions? Send us <a href="mailto:support@thetrophyist.com?subject=Contact Us">an email</a> or call us at <a href="tel:96716687"> 96 716 6879</a>
+					</p>
+
+					<div class="flex-m p-t-30">
+						<a href="https://www.facebook.com/The-Trophyist-2107927126160981/" target="_blank" class="fs-18 color1 p-r-20 fa fa-facebook"></a>
+						<a href="https://www.instagram.com/thetrophyist/" target="_blank" class="fs-18 color1 p-r-20 fa fa-instagram"></a>
+						<!-- <a href="#" class="fs-18 color1 p-r-20 fa fa-pinterest-p"></a>
+						<a href="#" class="fs-18 color1 p-r-20 fa fa-snapchat-ghost"></a>
+						<a href="#" class="fs-18 color1 p-r-20 fa fa-youtube-play"></a> -->
+					</div>
+				</div>
+			</div>
+
+			<div class="w-size7 p-t-30 p-l-15 p-r-15 respon4">
+				<h4 class="s-text12 p-b-30">
+					Trophies
+				</h4>
+
+				<ul>
+					<li class="p-b-9">
+						<a href="product-detail?t=3" class="s-text7">
+							Top Dog
+						</a>
+					</li>
+
+					<li class="p-b-9">
+						<a href="product-detail?t=1" class="s-text7">
+								Big Daddy
+						</a>
+					</li>
+
+					<li class="p-b-9">
+						<a href="product-detail?t=2" class="s-text7">
+							The Empress
+						</a>
+					</li>
+
+					<li class="p-b-9">
+						<a href="product-detail?t=5" class="s-text7">
+							Hat Trick
+						</a>
+					</li>
+					
+					<li class="p-b-9">
+						<a href="product-detail?t=4" class="s-text7">
+							Saucy Star
+						</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="w-size7 p-t-30 p-l-15 p-r-15 respon4">
+				<h4 class="s-text12 p-b-30">
+					Links
+				</h4>
+
+				<ul>
+					<li class="p-b-9">
+						<a href="about" class="s-text7">
+							About Us
+						</a>
+					</li>
+
+					<!-- <li class="p-b-9">
+						<a href="contact" class="s-text7">
+							Contact Us
+						</a>
+					</li> -->
+
+					<!-- <li class="p-b-9">
+						<a href="#" class="s-text7">
+							Returns
+						</a>
+					</li> -->
+				</ul>
+			</div>
+
+			<div class="w-size7 p-t-30 p-l-15 p-r-15 respon4">
+					<h4 class="s-text12 p-b-30">
+						Help
+					</h4>
+	
+					<ul>
+							<li class="p-b-9">
+									<a href="contact" class="s-text7">
+										Contact Us
+									</a>
+								</li>
+						<li class="p-b-9">
+							<a href="terms" class="s-text7">
+								Terms of Use
+							</a>
+						</li>
+	
+						<li class="p-b-9">
+							<a href="privacy" class="s-text7">
+								Privacy Policy
+							</a>
+						</li>
+	
+						<li class="p-b-9">
+							<a href="our-guarantee" class="s-text7">
+								Our Guarantee
+							</a>
+						</li>
+						
+						<li class="p-b-9">
+							<a href="faqs" class="s-text7">
+								FAQs
+							</a>
+						</li>
+					</ul>
+				</div>
+
+			<div class="w-size8 p-t-30 p-l-15 p-r-15 respon3">
+				<h4 class="s-text12 p-b-30">
+					Newsletter
+				</h4>
+
+				<form>
+					<div class="effect1 w-size9">
+						<input class="s-text7 bg6 w-full p-b-5" type="text" name="email" placeholder="email@example.com">
+						<span class="effect1-line"></span>
+					</div>
+
+					<div class="w-size2 p-t-20">
+						<!-- Button -->
+						<button class="flex-c-m size2 bg4 bo-rad-23 hov1 m-text3 trans-0-4">
+							Subscribe
+						</button>
+					</div>
+
+				</form>
+			</div>
+		</div>
+
+		<div class="t-center p-l-15 p-r-15">
+			<a href="#">
+				<img class="h-size2" src="images/icons/paypal.png" alt="IMG-PAYPAL">
+			</a>
+
+			<a href="#">
+				<img class="h-size2" src="images/icons/visa.png" alt="IMG-VISA">
+			</a>
+
+			<a href="#">
+				<img class="h-size2" src="images/icons/mastercard.png" alt="IMG-MASTERCARD">
+			</a>
+
+			<a href="#">
+				<img class="h-size2" src="images/icons/express.png" alt="IMG-EXPRESS">
+			</a>
+
+			<a href="#">
+				<img class="h-size2" src="images/icons/discover.png" alt="IMG-DISCOVER">
+			</a>
+
+			<div class="t-center s-text8 p-t-20">
+				Copyright © 2018 The Trophyist LLC. All rights reserved. | This website is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="http://www.zaviersanders.com" target="_blank">Zavier Sanders</a>
+			</div>
+		</div>
+	</footer>
+
+
+
+	<!-- Back to top -->
+	<div class="btn-back-to-top bg0-hov" id="myBtn">
+		<span class="symbol-btn-back-to-top">
+			<i class="fa fa-angle-double-up" aria-hidden="true"></i>
+		</span>
+	</div>
+
+	<!-- Container Selection -->
+	<div id="dropDownSelect1"></div>
+	<div id="dropDownSelect2"></div>
+
+
+
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/bootstrap/js/popper.js"></script>
+	<script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="vendor/select2/select2.min.js"></script>
+	<script type="text/javascript">
+		$(".selection-1").select2({
+			minimumResultsForSearch: 20,
+			dropdownParent: $('#dropDownSelect1')
+		});
+
+		$(".selection-2").select2({
+			minimumResultsForSearch: 20,
+			dropdownParent: $('#dropDownSelect2')
+		});
+
+		$("#contact-form").submit(function(event){
+        let form = $('#contact-form');
+        let message = $('.success-message');
+        
+        event.preventDefault(); //prevent default action 
+        var post_url = "https://smlw9fh6jl.execute-api.us-east-1.amazonaws.com/prod/theTrophyist-contactUs"; //get form action url
+        var form_data = {
+            Name: $(this).find('input[name="name"]').val(),
+            Email: $(this).find('input[name="email"]').val(),
+            Phone: $(this).find('input[name="phone-number"]').val(),
+            Subject: 'Contact Us',
+            Body: $.trim($("#Body").val()) //$(this).find('input[name="Body"]').text(),
+        }
+        
+        var data = JSON.stringify(form_data);
+        console.log(form_data);
+        $.post( post_url, data, function( response ) {
+          console.log(response);
+            form.css({ 'display': "none" });
+            message.css({ 'display': "inline-block" });
+        });
+    });
+	</script>
+<!--===============================================================================================-->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKFWBqlKAGCeS1rMVoaNlwyayu0e0YRes"></script>
+	<script src="js/map-custom.js"></script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+</body>
+</html>
